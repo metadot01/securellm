@@ -1,2 +1,2 @@
 # securellm
-Safety and Security of Large Language Models
+Research Project to improve the Safety and Security of Large Language Models
